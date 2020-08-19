@@ -1,0 +1,10 @@
+name: News
+form: $/alex/news/models/news/fields.yaml
+modelClass: Alex\News\Models\News
+defaultRedirect: alex/news/news
+create:
+    redirect: 'alex/news/news/update/:id'
+    redirectClose: alex/news/news
+update:
+    redirect: alex/news/news
+    redirectClose: alex/news/news

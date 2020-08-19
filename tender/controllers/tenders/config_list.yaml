@@ -1,0 +1,12 @@
+list: $/alex/tender/models/tender/columns.yaml
+modelClass: Alex\Tender\Models\Tender
+title: Tenders
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/tender/tenders/update/:id'

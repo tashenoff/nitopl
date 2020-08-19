@@ -1,0 +1,7 @@
+columns:
+    id:
+        label: id
+        type: text
+    title:
+        label: 'Наименование отдела'
+        type: text

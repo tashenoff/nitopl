@@ -1,0 +1,14 @@
+fields:
+    title:
+        label: 'Название тендера'
+        span: full
+        type: text
+    link:
+        label: 'Ссылка на документ'
+        span: full
+        type: text
+    date:
+        label: Дата
+        mode: date
+        span: auto
+        type: datepicker

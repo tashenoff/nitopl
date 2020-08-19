@@ -1,0 +1,4 @@
+title: Juranl
+modelClass: Alex\Jurnal\Models\Jurnal
+toolbar:
+    buttons: reorder_toolbar

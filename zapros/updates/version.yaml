@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table alex_zapros_'
+    - builder_table_create_alex_zapros_.php
+1.0.3:
+    - 'Updated table alex_zapros_'
+    - builder_table_update_alex_zapros_.php

@@ -1,0 +1,9 @@
+fields:
+    title:
+        label: 'Наименование лота'
+        span: auto
+        type: text
+    link:
+        label: ссылка
+        span: auto
+        type: text

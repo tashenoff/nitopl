@@ -1,0 +1,4 @@
+title: Zakups
+modelClass: Alex\Zakupki\Models\Alex_zakupki_
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,19 @@
+fields:
+    title:
+        label: 'Заголовок новости'
+        span: full
+        type: text
+    date:
+        label: 'Дата публикации'
+        mode: date
+        span: full
+        type: datepicker
+    desc:
+        label: 'Короткое описание новости'
+        span: full
+        type: text
+    full_desc:
+        label: 'Полный текст новости'
+        size: large
+        span: full
+        type: richeditor

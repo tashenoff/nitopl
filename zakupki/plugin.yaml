@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.zakupki::lang.plugin.name'
+    description: 'alex.zakupki::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item2:
+        label: Закупки
+        url: alex/zakupki/zakups
+        icon: icon-life-ring

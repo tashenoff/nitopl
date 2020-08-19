@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.news::lang.plugin.name'
+    description: 'alex.news::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Новости
+        url: alex/news/news
+        icon: icon-life-ring

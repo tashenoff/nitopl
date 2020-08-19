@@ -1,0 +1,6 @@
+plugin:
+    name: 'alex.normdoc::lang.plugin.name'
+    description: 'alex.normdoc::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''

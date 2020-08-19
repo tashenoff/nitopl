@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.tender::lang.plugin.name'
+    description: 'alex.tender::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Тендер
+        url: alex/tender/tenders
+        icon: icon-life-ring

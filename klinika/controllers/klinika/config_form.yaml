@@ -1,0 +1,10 @@
+name: Klinika
+form: $/alex/klinika/models/klinika/fields.yaml
+modelClass: Alex\Klinika\Models\Klinika
+defaultRedirect: alex/klinika/klinika
+create:
+    redirect: 'alex/klinika/klinika/update/:id'
+    redirectClose: alex/klinika/klinika
+update:
+    redirect: alex/klinika/klinika
+    redirectClose: alex/klinika/klinika

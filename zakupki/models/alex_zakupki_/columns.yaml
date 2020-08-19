@@ -1,0 +1,4 @@
+columns:
+    title:
+        label: 'Наименование лота'
+        type: text

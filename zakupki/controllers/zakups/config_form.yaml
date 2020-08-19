@@ -1,0 +1,10 @@
+name: Zakups
+form: $/alex/zakupki/models/alex_zakupki_/fields.yaml
+modelClass: Alex\Zakupki\Models\Alex_zakupki_
+defaultRedirect: alex/zakupki/zakups
+create:
+    redirect: 'alex/zakupki/zakups/update/:id'
+    redirectClose: alex/zakupki/zakups
+update:
+    redirect: alex/zakupki/zakups
+    redirectClose: alex/zakupki/zakups

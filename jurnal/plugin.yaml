@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.jurnal::lang.plugin.name'
+    description: 'alex.jurnal::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Журнал
+        url: alex/jurnal/juranl
+        icon: icon-life-ring

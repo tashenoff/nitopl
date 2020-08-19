@@ -1,0 +1,50 @@
+fields:
+    title:
+        label: 'Название Отделения'
+        span: auto
+        type: text
+    spec:
+        label: Специализация
+        span: auto
+        type: text
+    metodic:
+        label: 'Технологии и методики'
+        span: auto
+        type: text
+    bed:
+        label: 'кол-во коек'
+        span: auto
+        type: text
+    desc_spec:
+        label: 'Описание отделения'
+        size: large
+        span: full
+        type: richeditor
+    persona:
+        label: Персонал
+        prompt: 'Add new item'
+        span: auto
+        type: repeater
+        form:
+            fields:
+                name:
+                    label: ФИО
+                    span: full
+                    type: text
+                spec:
+                    label: Спецификация
+                    span: full
+                    type: text
+                phone:
+                    label: Телефон
+                    span: full
+                    type: text
+                mail:
+                    label: Имейл
+                    span: full
+                    type: text
+                photo:
+                    label: 'Media finder'
+                    mode: image
+                    span: auto
+                    type: mediafinder

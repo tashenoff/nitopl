@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.klinika::lang.plugin.name'
+    description: 'alex.klinika::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Отделения и персонал'
+        url: alex/klinika/klinika
+        icon: icon-life-ring

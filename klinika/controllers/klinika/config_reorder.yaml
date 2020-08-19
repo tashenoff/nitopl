@@ -1,0 +1,4 @@
+title: Klinika
+modelClass: Alex\Klinika\Models\Klinika
+toolbar:
+    buttons: reorder_toolbar

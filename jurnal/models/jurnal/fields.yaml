@@ -1,0 +1,9 @@
+fields:
+    title:
+        label: 'Название журнала'
+        span: auto
+        type: text
+    link:
+        label: 'Ссылка на журнал'
+        span: auto
+        type: text

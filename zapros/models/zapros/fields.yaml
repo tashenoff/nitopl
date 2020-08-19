@@ -1,0 +1,14 @@
+fields:
+    title:
+        label: 'Наименование протокола'
+        span: full
+        type: text
+    link:
+        label: Ссылка
+        span: full
+        type: text
+    date:
+        label: Дата
+        mode: date
+        span: full
+        type: datepicker

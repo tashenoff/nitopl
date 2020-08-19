@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.zapros::lang.plugin.name'
+    description: 'alex.zapros::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Запрос ценовых предложений'
+        url: alex/zapros/zapros
+        icon: icon-life-ring

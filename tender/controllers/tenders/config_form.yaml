@@ -1,0 +1,10 @@
+name: Tenders
+form: $/alex/tender/models/tender/fields.yaml
+modelClass: Alex\Tender\Models\Tender
+defaultRedirect: alex/tender/tenders
+create:
+    redirect: 'alex/tender/tenders/update/:id'
+    redirectClose: alex/tender/tenders
+update:
+    redirect: alex/tender/tenders
+    redirectClose: alex/tender/tenders

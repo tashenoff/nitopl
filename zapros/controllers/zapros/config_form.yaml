@@ -1,0 +1,10 @@
+name: Zapros
+form: $/alex/zapros/models/zapros/fields.yaml
+modelClass: Alex\Zapros\Models\Zapros
+defaultRedirect: alex/zapros/zapros
+create:
+    redirect: 'alex/zapros/zapros/update/:id'
+    redirectClose: alex/zapros/zapros
+update:
+    redirect: alex/zapros/zapros
+    redirectClose: alex/zapros/zapros
