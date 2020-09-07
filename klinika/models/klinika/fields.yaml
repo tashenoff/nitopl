@@ -37,9 +37,10 @@ fields:
                     span: full
                     type: text
                 spec:
-                    label: Спецификация
+                    label: Информация
+                    size: ''
                     span: full
-                    type: text
+                    type: textarea
                 phone:
                     label: Телефон
                     span: full
