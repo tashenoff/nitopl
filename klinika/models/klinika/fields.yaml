@@ -49,7 +49,7 @@ fields:
                     span: full
                     type: text
                 photo:
-                    label: 'Media finder'
+                    label: 'Загрузка фото'
                     mode: image
                     span: auto
                     type: mediafinder
