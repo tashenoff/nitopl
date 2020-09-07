@@ -7,13 +7,18 @@ fields:
         label: Специализация
         span: auto
         type: text
-    metodic:
-        label: 'Технологии и методики'
-        span: auto
-        type: text
     bed:
         label: 'кол-во коек'
         span: auto
+        type: text
+    metodic:
+        label: 'Технологии и методики'
+        size: ''
+        span: full
+        type: textarea
+    linkp:
+        label: 'Ссылка на прайс (google таблица)'
+        span: full
         type: text
     desc_spec:
         label: 'Описание отделения'
