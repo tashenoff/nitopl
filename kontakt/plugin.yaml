@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.kontakt::lang.plugin.name'
+    description: 'alex.kontakt::lang.plugin.description'
+    author: alex
+    icon: oc-icon-location-arrow
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Контакты
+        url: alex/kontakt/kontakt
+        icon: icon-life-ring

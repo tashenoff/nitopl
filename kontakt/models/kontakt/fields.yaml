@@ -1,0 +1,18 @@
+fields:
+    adress:
+        label: Адрес
+        span: full
+        type: text
+    fax:
+        label: Факс
+        span: full
+        type: text
+    email:
+        label: Email
+        span: full
+        type: text
+    text:
+        label: 'Список номеров'
+        size: giant
+        span: full
+        type: richeditor

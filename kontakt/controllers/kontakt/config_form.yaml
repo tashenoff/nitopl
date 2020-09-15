@@ -1,0 +1,10 @@
+name: Kontakt
+form: $/alex/kontakt/models/kontakt/fields.yaml
+modelClass: Alex\Kontakt\Models\Kontakt
+defaultRedirect: alex/kontakt/kontakt
+create:
+    redirect: 'alex/kontakt/kontakt/update/:id'
+    redirectClose: alex/kontakt/kontakt
+update:
+    redirect: alex/kontakt/kontakt
+    redirectClose: alex/kontakt/kontakt

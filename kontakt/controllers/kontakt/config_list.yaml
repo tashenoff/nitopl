@@ -1,0 +1,12 @@
+list: $/alex/kontakt/models/kontakt/columns.yaml
+modelClass: Alex\Kontakt\Models\Kontakt
+title: Kontakt
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/kontakt/kontakt/update/:id'

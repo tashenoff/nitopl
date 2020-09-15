@@ -9,3 +9,7 @@ navigation:
         label: КАТО
         url: alex/kato/kato
         icon: icon-life-ring
+permissions:
+    dana:
+        tab: 'alex.kato::lang.plugin.description'
+        label: 'alex.kato::lang.plugin.description'

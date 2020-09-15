@@ -8,4 +8,4 @@ navigation:
     main-menu-item:
         label: 'Блог директора'
         url: alex/blogd/blogd
-        icon: icon-life-ring
+        icon: icon-anchor

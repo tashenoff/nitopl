@@ -1,0 +1,4 @@
+title: Kontakt
+modelClass: Alex\Kontakt\Models\Kontakt
+toolbar:
+    buttons: reorder_toolbar
