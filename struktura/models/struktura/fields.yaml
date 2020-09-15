@@ -1,0 +1,9 @@
+fields:
+    link:
+        label: 'Ссылка на структуру'
+        span: auto
+        type: text
+    title:
+        label: Заголовок
+        span: full
+        type: text

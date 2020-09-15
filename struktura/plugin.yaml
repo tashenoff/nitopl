@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.struktura::lang.plugin.name'
+    description: 'alex.struktura::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Структура
+        url: alex/struktura/struktura
+        icon: icon-life-ring

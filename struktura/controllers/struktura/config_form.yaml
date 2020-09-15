@@ -1,0 +1,10 @@
+name: Struktura
+form: $/alex/struktura/models/struktura/fields.yaml
+modelClass: Alex\Struktura\Models\Struktura
+defaultRedirect: alex/struktura/struktura
+create:
+    redirect: 'alex/struktura/struktura/update/:id'
+    redirectClose: alex/struktura/struktura
+update:
+    redirect: alex/struktura/struktura
+    redirectClose: alex/struktura/struktura

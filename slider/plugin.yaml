@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.slider::lang.plugin.name'
+    description: 'alex.slider::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Слайдер
+        url: alex/slider/slider
+        icon: icon-life-ring

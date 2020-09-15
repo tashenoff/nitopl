@@ -1,0 +1,10 @@
+fields:
+    imgs:
+        label: 'Загрузить баннер'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

@@ -1,0 +1,4 @@
+title: Struktura
+modelClass: Alex\Struktura\Models\Struktura
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,10 @@
+name: Slider
+form: $/alex/slider/models/slider/fields.yaml
+modelClass: Alex\Slider\Models\Slider
+defaultRedirect: alex/slider/slider
+create:
+    redirect: 'alex/slider/slider/update/:id'
+    redirectClose: alex/slider/slider
+update:
+    redirect: alex/slider/slider
+    redirectClose: alex/slider/slider
