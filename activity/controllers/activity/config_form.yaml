@@ -1,0 +1,10 @@
+name: Activity
+modelClass: Alex\Activity\Models\Activity
+form: $/alex/activity/models/activity/fields.yaml
+defaultRedirect: alex/activity/activity
+create:
+    redirect: 'alex/activity/activity/update/:id'
+    redirectClose: alex/activity/activity
+update:
+    redirect: alex/activity/activity
+    redirectClose: alex/activity/activity

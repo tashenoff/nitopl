@@ -1,0 +1,8 @@
+tabs:
+    fields:
+        text:
+            label: 'Rich editor'
+            size: giant
+            span: full
+            type: richeditor
+            tab: 'Tab 1'

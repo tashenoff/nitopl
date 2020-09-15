@@ -1,0 +1,7 @@
+columns:
+    id:
+        label: id
+        type: number
+    text:
+        label: Текст
+        type: text

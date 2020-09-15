@@ -1,0 +1,11 @@
+name: Act
+modelClass: Alex\Activision\Models\Activision
+form: $/alex/activision/models/activision/fields.yaml
+defaultRedirect: alex/activision/act
+create:
+    redirect: 'alex/activision/act/update/:id'
+    redirectClose: alex/activision/act
+update:
+    redirect: alex/activision/act
+    redirectClose: alex/activision/act
+preview: {  }

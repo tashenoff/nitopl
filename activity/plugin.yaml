@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.activity::lang.plugin.name'
+    description: 'alex.activity::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Конференция
+        url: alex/activity/activity
+        icon: icon-life-ring

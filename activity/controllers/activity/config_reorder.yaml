@@ -1,0 +1,5 @@
+title: Activity
+modelClass: Alex\Activity\Models\Activity
+nameFrom: act
+toolbar:
+    buttons: reorder_toolbar

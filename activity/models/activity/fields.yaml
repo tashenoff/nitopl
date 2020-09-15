@@ -1,0 +1,8 @@
+tabs:
+    fields:
+        texter:
+            label: 'Rich editor'
+            size: ''
+            span: full
+            type: richeditor
+            tab: 'Tab 1'

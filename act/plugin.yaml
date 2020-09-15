@@ -1,0 +1,6 @@
+plugin:
+    name: 'alex.act::lang.plugin.name'
+    description: 'alex.act::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''

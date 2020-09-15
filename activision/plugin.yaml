@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.activision::lang.plugin.name'
+    description: 'alex.activision::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Конф
+        url: alex/activision/act
+        icon: icon-life-ring
