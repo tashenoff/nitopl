@@ -1,0 +1,9 @@
+fields:
+    title:
+        label: Заголовок
+        span: full
+        type: text
+    link:
+        label: Ссылка
+        span: full
+        type: text

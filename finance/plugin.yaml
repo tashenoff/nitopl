@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.finance::lang.plugin.name'
+    description: 'alex.finance::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Годовая финансовая отчетность'
+        url: alex/finance/finance
+        icon: icon-life-ring

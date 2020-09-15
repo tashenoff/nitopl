@@ -1,0 +1,4 @@
+title: Finance
+modelClass: Alex\Finance\Models\Finance
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,10 @@
+name: Finance
+form: $/alex/finance/models/finance/fields.yaml
+modelClass: Alex\Finance\Models\Finance
+defaultRedirect: alex/finance/finance
+create:
+    redirect: 'alex/finance/finance/update/:id'
+    redirectClose: alex/finance/finance
+update:
+    redirect: alex/finance/finance
+    redirectClose: alex/finance/finance
