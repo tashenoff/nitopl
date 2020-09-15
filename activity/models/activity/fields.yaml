@@ -1,3 +1,8 @@
+fields:
+    link:
+        label: 'ссылка на форму'
+        span: auto
+        type: text
 tabs:
     fields:
         texter:
