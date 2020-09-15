@@ -6,6 +6,6 @@ plugin:
     homepage: ''
 navigation:
     main-menu-item:
-        label: Конф
+        label: Конференция
         url: alex/activision/act
         icon: icon-life-ring
