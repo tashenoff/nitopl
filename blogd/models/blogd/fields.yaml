@@ -1,0 +1,11 @@
+fields:
+    title:
+        label: Заголовок
+        span: full
+        type: text
+    text:
+        label: Текст
+        size: giant
+        span: full
+        type: richeditor
+        comment: 'Фото можно добавлять в редакторе'

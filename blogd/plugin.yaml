@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.blogd::lang.plugin.name'
+    description: 'alex.blogd::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Блог директора'
+        url: alex/blogd/blogd
+        icon: icon-life-ring

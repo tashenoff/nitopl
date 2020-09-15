@@ -1,0 +1,12 @@
+list: $/alex/kato/models/kato/columns.yaml
+modelClass: Alex\Kato\Models\Kato
+title: Kato
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/kato/kato/update/:id'

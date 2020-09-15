@@ -1,0 +1,4 @@
+title: Vakansii
+modelClass: Alex\Vakansii\Models\Vakansii
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.kato::lang.plugin.name'
+    description: 'alex.kato::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: КАТО
+        url: alex/kato/kato
+        icon: icon-life-ring

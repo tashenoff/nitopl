@@ -1,0 +1,4 @@
+title: BlogD
+modelClass: Alex\Blogd\Models\BlogD
+toolbar:
+    buttons: reorder_toolbar

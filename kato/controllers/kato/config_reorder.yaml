@@ -1,0 +1,4 @@
+title: Kato
+modelClass: Alex\Kato\Models\Kato
+toolbar:
+    buttons: reorder_toolbar

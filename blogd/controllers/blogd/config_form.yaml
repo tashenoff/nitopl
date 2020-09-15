@@ -1,0 +1,10 @@
+name: BlogD
+form: $/alex/blogd/models/blogd/fields.yaml
+modelClass: Alex\Blogd\Models\BlogD
+defaultRedirect: alex/blogd/blogd
+create:
+    redirect: 'alex/blogd/blogd/update/:id'
+    redirectClose: alex/blogd/blogd
+update:
+    redirect: alex/blogd/blogd
+    redirectClose: alex/blogd/blogd

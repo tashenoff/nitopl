@@ -1,0 +1,10 @@
+name: Vakansii
+form: $/alex/vakansii/models/vakansii/fields.yaml
+modelClass: Alex\Vakansii\Models\Vakansii
+defaultRedirect: alex/vakansii/vakansii
+create:
+    redirect: 'alex/vakansii/vakansii/update/:id'
+    redirectClose: alex/vakansii/vakansii
+update:
+    redirect: alex/vakansii/vakansii
+    redirectClose: alex/vakansii/vakansii

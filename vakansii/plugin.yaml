@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.vakansii::lang.plugin.name'
+    description: 'alex.vakansii::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Вакансии
+        url: alex/vakansii/vakansii
+        icon: icon-life-ring

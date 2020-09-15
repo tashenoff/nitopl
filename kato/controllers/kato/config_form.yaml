@@ -1,0 +1,10 @@
+name: Kato
+form: $/alex/kato/models/kato/fields.yaml
+modelClass: Alex\Kato\Models\Kato
+defaultRedirect: alex/kato/kato
+create:
+    redirect: 'alex/kato/kato/update/:id'
+    redirectClose: alex/kato/kato
+update:
+    redirect: alex/kato/kato
+    redirectClose: alex/kato/kato
