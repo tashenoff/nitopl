@@ -1,0 +1,10 @@
+name: Missia
+form: $/alex/missia/models/missia/fields.yaml
+modelClass: Alex\Missia\Models\Missia
+defaultRedirect: alex/missia/missia
+create:
+    redirect: 'alex/missia/missia/update/:id'
+    redirectClose: alex/missia/missia
+update:
+    redirect: alex/missia/missia
+    redirectClose: alex/missia/missia

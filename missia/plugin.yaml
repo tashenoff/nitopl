@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.missia::lang.plugin.name'
+    description: 'alex.missia::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Миссия
+        url: alex/missia/missia
+        icon: icon-life-ring
