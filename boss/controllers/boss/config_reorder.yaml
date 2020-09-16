@@ -1,0 +1,4 @@
+title: Boss
+modelClass: Alex\Boss\Models\Boss
+toolbar:
+    buttons: reorder_toolbar

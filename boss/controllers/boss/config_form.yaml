@@ -1,0 +1,10 @@
+name: Boss
+form: $/alex/boss/models/boss/fields.yaml
+modelClass: Alex\Boss\Models\Boss
+defaultRedirect: alex/boss/boss
+create:
+    redirect: 'alex/boss/boss/update/:id'
+    redirectClose: alex/boss/boss
+update:
+    redirect: alex/boss/boss
+    redirectClose: alex/boss/boss

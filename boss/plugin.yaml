@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.boss::lang.plugin.name'
+    description: 'alex.boss::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Руководство
+        url: alex/boss/boss
+        icon: icon-life-ring

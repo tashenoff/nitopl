@@ -1,0 +1,36 @@
+fields:
+    name:
+        label: Имя
+        span: full
+        type: text
+    caption:
+        label: 'Краткое описание'
+        size: large
+        span: full
+        type: richeditor
+    phone:
+        label: Телефон
+        span: full
+        type: text
+    mail:
+        label: Почта
+        span: full
+        type: text
+    mailtwo:
+        label: 'Второй email'
+        span: full
+        type: text
+    text:
+        label: Биография
+        size: giant
+        span: full
+        type: richeditor
+    photo:
+        label: 'Загрурзка фото'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
