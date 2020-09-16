@@ -24,6 +24,8 @@ class Boss extends Model
         'photo' => 'System\Models\file' 
 
     ];
+      
+    protected $jsonable = ['photo'];
 
     /**
      * @var array Validation rules
