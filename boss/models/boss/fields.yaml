@@ -25,7 +25,7 @@ fields:
         size: giant
         span: full
         type: richeditor
-    photo:
+    phot:
         label: 'Загрурзка фото'
         mode: image
         useCaption: true
