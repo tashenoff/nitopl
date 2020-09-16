@@ -1,0 +1,4 @@
+title: MS
+modelClass: Alex\Ms\Models\MS
+toolbar:
+    buttons: reorder_toolbar

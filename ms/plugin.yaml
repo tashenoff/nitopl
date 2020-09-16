@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.ms::lang.plugin.name'
+    description: 'alex.ms::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Международное сотрудничество'
+        url: alex/ms/ms
+        icon: icon-life-ring

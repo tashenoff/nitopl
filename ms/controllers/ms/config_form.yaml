@@ -1,0 +1,10 @@
+name: MS
+form: $/alex/ms/models/ms/fields.yaml
+modelClass: Alex\Ms\Models\MS
+defaultRedirect: alex/ms/ms
+create:
+    redirect: 'alex/ms/ms/update/:id'
+    redirectClose: alex/ms/ms
+update:
+    redirect: alex/ms/ms
+    redirectClose: alex/ms/ms
