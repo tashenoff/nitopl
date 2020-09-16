@@ -22,7 +22,7 @@ class Boss extends Model
     public $table = 'alex_boss_';
 
     public $attachOne = [
-        'photo' => 'System\Models\file'
+        'photo' => 'System\Models\file' 
 
     ];
 
