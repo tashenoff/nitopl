@@ -1,0 +1,4 @@
+title: History
+modelClass: Alex\History\Models\History
+toolbar:
+    buttons: reorder_toolbar

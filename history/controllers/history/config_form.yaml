@@ -1,0 +1,10 @@
+name: History
+form: $/alex/history/models/history/fields.yaml
+modelClass: Alex\History\Models\History
+defaultRedirect: alex/history/history
+create:
+    redirect: 'alex/history/history/update/:id'
+    redirectClose: alex/history/history
+update:
+    redirect: alex/history/history
+    redirectClose: alex/history/history

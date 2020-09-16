@@ -1,0 +1,12 @@
+list: $/alex/history/models/history/columns.yaml
+modelClass: Alex\History\Models\History
+title: History
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/history/history/update/:id'

@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.history::lang.plugin.name'
+    description: 'alex.history::lang.plugin.description'
+    author: alex
+    icon: oc-icon-archive
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: История
+        url: alex/history/history
+        icon: icon-life-ring
