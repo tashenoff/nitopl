@@ -20,7 +20,6 @@ class Boss extends Model
      * @var string The database table used by the model.
      */
     public $table = 'alex_boss_';
-
     public $attachOne = [
         'photo' => 'System\Models\file' 
 
