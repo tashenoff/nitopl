@@ -20,10 +20,9 @@ class Boss extends Model
      * @var string The database table used by the model.
      */
     public $table = 'alex_boss_';
-    public $attachMany = [
+    public $attachOne = [
         'phot' => 'System\Models\File'
     ];
-
       
      /**
      * @var array Validation rules
