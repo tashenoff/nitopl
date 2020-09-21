@@ -8,4 +8,19 @@ fields:
         size: giant
         span: full
         type: richeditor
-        comment: 'Ссылки добавлять так-же здесь'
+        comment: 'Ссылки сюда не добавлять'
+    links:
+        label: Ссылки
+        prompt: 'Добавить еще'
+        span: auto
+        type: repeater
+        form:
+            fields:
+                link:
+                    label: Ссылка
+                    span: full
+                    type: text
+                linktitle:
+                    label: 'Заголовок к ссылке'
+                    span: full
+                    type: text

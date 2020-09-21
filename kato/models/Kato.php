@@ -20,6 +20,7 @@ class Kato extends Model
      * @var string The database table used by the model.
      */
     public $table = 'alex_kato_';
+    protected $jsonable = ['links'];
 
     /**
      * @var array Validation rules

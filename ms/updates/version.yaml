@@ -3,3 +3,6 @@
 1.0.2:
     - 'Created table alex_ms_'
     - builder_table_create_alex_ms_.php
+1.0.3:
+    - 'Updated table alex_ms_'
+    - builder_table_update_alex_ms_.php

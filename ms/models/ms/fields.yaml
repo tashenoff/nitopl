@@ -8,3 +8,18 @@ fields:
         size: giant
         span: full
         type: richeditor
+    links:
+        label: Ссылки
+        prompt: 'Добавить еще'
+        span: full
+        type: repeater
+        form:
+            fields:
+                linktitle:
+                    label: 'Название ссылки'
+                    span: full
+                    type: text
+                link:
+                    label: Ссылка
+                    span: full
+                    type: text
