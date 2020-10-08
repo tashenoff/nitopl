@@ -1,0 +1,21 @@
+fields:
+    text:
+        label: 'Текст для библиотеки'
+        size: giant
+        span: full
+        type: richeditor
+    links:
+        label: Ссылки
+        prompt: 'добавить еще'
+        span: full
+        type: repeater
+        form:
+            fields:
+                link_title:
+                    label: 'Заголовок ссылки'
+                    span: full
+                    type: text
+                link:
+                    label: ссылка
+                    span: full
+                    type: text

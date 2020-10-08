@@ -1,0 +1,12 @@
+list: $/alex/bibkioteka/models/biblioteka/columns.yaml
+modelClass: Alex\Bibkioteka\Models\Biblioteka
+title: Biblioteka
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/bibkioteka/biblioteka/update/:id'

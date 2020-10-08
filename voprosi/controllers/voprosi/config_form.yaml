@@ -1,0 +1,10 @@
+name: Voprosi
+form: $/alex/voprosi/models/voprosi/fields.yaml
+modelClass: Alex\Voprosi\Models\Voprosi
+defaultRedirect: alex/voprosi/voprosi
+create:
+    redirect: 'alex/voprosi/voprosi/update/:id'
+    redirectClose: alex/voprosi/voprosi
+update:
+    redirect: alex/voprosi/voprosi
+    redirectClose: alex/voprosi/voprosi

@@ -1,0 +1,4 @@
+title: Nauka
+modelClass: Alex\Nauka\Models\Nauka
+toolbar:
+    buttons: reorder_toolbar

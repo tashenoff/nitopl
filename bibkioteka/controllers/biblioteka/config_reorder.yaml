@@ -1,0 +1,4 @@
+title: Biblioteka
+modelClass: Alex\Bibkioteka\Models\Biblioteka
+toolbar:
+    buttons: reorder_toolbar

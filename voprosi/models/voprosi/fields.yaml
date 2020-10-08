@@ -1,0 +1,26 @@
+fields:
+    question_title:
+        label: Заголовок
+        span: full
+        type: text
+        comment: 'здесь нужно вводить заголовок вопроса'
+    qwestion_date:
+        label: 'Дата когда вопрос был задан'
+        mode: date
+        span: full
+        type: datepicker
+    question_text:
+        label: 'Текст вопроса'
+        size: giant
+        span: full
+        type: richeditor
+    answer_date:
+        label: 'Дата когда ответили'
+        mode: date
+        span: full
+        type: datepicker
+    answer_text:
+        label: 'Текст ответа'
+        size: giant
+        span: full
+        type: richeditor

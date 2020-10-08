@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.nauka::lang.plugin.name'
+    description: 'alex.nauka::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Наука страница'
+        url: alex/nauka/nauka
+        icon: icon-life-ring

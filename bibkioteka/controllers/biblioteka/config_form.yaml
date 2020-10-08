@@ -1,0 +1,10 @@
+name: Biblioteka
+form: $/alex/bibkioteka/models/biblioteka/fields.yaml
+modelClass: Alex\Bibkioteka\Models\Biblioteka
+defaultRedirect: alex/bibkioteka/biblioteka
+create:
+    redirect: 'alex/bibkioteka/biblioteka/update/:id'
+    redirectClose: alex/bibkioteka/biblioteka
+update:
+    redirect: alex/bibkioteka/biblioteka
+    redirectClose: alex/bibkioteka/biblioteka

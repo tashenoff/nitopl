@@ -1,0 +1,6 @@
+fields:
+    text:
+        label: 'Текст для раздела науки'
+        size: giant
+        span: full
+        type: richeditor

@@ -1,0 +1,10 @@
+name: Nauka
+form: $/alex/nauka/models/nauka/fields.yaml
+modelClass: Alex\Nauka\Models\Nauka
+defaultRedirect: alex/nauka/nauka
+create:
+    redirect: 'alex/nauka/nauka/update/:id'
+    redirectClose: alex/nauka/nauka
+update:
+    redirect: alex/nauka/nauka
+    redirectClose: alex/nauka/nauka

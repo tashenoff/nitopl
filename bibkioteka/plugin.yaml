@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.bibkioteka::lang.plugin.name'
+    description: 'alex.bibkioteka::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Библиотека
+        url: alex/bibkioteka/biblioteka
+        icon: icon-life-ring

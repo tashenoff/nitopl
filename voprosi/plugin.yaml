@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.voprosi::lang.plugin.name'
+    description: 'alex.voprosi::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Вопрос-ответ
+        url: alex/voprosi/voprosi
+        icon: icon-comments
