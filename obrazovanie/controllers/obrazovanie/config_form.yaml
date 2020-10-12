@@ -1,0 +1,10 @@
+name: Obrazovanie
+form: $/alex/obrazovanie/models/obrazovanie/fields.yaml
+modelClass: Alex\Obrazovanie\Models\Obrazovanie
+defaultRedirect: alex/obrazovanie/obrazovanie
+create:
+    redirect: 'alex/obrazovanie/obrazovanie/update/:id'
+    redirectClose: alex/obrazovanie/obrazovanie
+update:
+    redirect: alex/obrazovanie/obrazovanie
+    redirectClose: alex/obrazovanie/obrazovanie

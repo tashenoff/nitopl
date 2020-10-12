@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.obrazovanie::lang.plugin.name'
+    description: 'alex.obrazovanie::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Образование
+        url: alex/obrazovanie/obrazovanie
+        icon: icon-life-ring

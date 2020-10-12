@@ -1,0 +1,25 @@
+fields:
+    title:
+        label: 'Название раздела'
+        span: full
+        type: text
+    text:
+        label: 'Текст раздела'
+        size: giant
+        span: full
+        type: richeditor
+    links:
+        label: 'Ссылки в разделе'
+        prompt: 'Добавить новую'
+        span: full
+        type: repeater
+        form:
+            fields:
+                link:
+                    label: Ссылка
+                    span: full
+                    type: text
+                link_title:
+                    label: 'Заголовок ссылки'
+                    span: full
+                    type: text

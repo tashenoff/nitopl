@@ -1,0 +1,4 @@
+title: Obrazovanie
+modelClass: Alex\Obrazovanie\Models\Obrazovanie
+toolbar:
+    buttons: reorder_toolbar
