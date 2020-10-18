@@ -21,7 +21,7 @@ class Metodic extends Model
      */
     public $table = 'alex_metodic_';
     public $attachOne = [
-        'photo' => 'System\Models\file'
+        'photo' => 'System\Models\File'
 
     ];
     protected $jsonable = ['links'];
