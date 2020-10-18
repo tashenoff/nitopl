@@ -1,0 +1,4 @@
+title: Osms
+modelClass: Alex\Osms\Models\Osms
+toolbar:
+    buttons: reorder_toolbar

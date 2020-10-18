@@ -1,11 +1,11 @@
-<?php namespace Alex\Obrazovanie\Models;
+<?php namespace Alex\Meri\Models;
 
 use Model;
 
 /**
  * Model
  */
-class Obrazovanie extends Model
+class Meri extends Model
 {
     use \October\Rain\Database\Traits\Validation;
     
@@ -19,11 +19,7 @@ class Obrazovanie extends Model
     /**
      * @var string The database table used by the model.
      */
-    public $table = 'alex_obrazovanie_';
-    public $attachOne = [
-        'photo' => 'System\Models\file'
-
-    ];
+    public $table = 'alex_meri_';
     protected $jsonable = ['links'];
 
     /**

@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.metodic::lang.plugin.name'
+    description: 'alex.metodic::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'НИИТО-организационно-методическая работа'
+        url: alex/metodic/metodic
+        icon: icon-life-ring

@@ -1,0 +1,25 @@
+fields:
+    title:
+        label: Заголвок
+        span: full
+        type: text
+    text:
+        label: Текст
+        size: giant
+        span: full
+        type: richeditor
+    links:
+        label: Ссылки
+        prompt: 'Добавить новую'
+        span: full
+        type: repeater
+        form:
+            fields:
+                link_title:
+                    label: 'Заголовок ссылки'
+                    span: full
+                    type: text
+                link:
+                    label: Ссылка
+                    span: full
+                    type: text

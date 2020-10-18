@@ -1,0 +1,4 @@
+title: Metodic
+modelClass: Alex\Metodic\Models\Metodic
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.osms::lang.plugin.name'
+    description: 'alex.osms::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: ОСМС
+        url: alex/osms/osms
+        icon: icon-life-ring

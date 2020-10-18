@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.meri::lang.plugin.name'
+    description: 'alex.meri::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'меры противодействия коррупции'
+        url: alex/meri/meri
+        icon: icon-life-ring

@@ -1,0 +1,4 @@
+title: Meri
+modelClass: Alex\Meri\Models\Meri
+toolbar:
+    buttons: reorder_toolbar

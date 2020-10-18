@@ -1,0 +1,6 @@
+plugin:
+    name: 'alex.extrenal::lang.plugin.name'
+    description: 'alex.extrenal::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''

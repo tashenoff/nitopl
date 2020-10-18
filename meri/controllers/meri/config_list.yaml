@@ -1,0 +1,12 @@
+list: $/alex/meri/models/meri/columns.yaml
+modelClass: Alex\Meri\Models\Meri
+title: Meri
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/meri/meri/update/:id'

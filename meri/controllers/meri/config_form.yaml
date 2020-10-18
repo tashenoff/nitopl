@@ -1,0 +1,10 @@
+name: Meri
+form: $/alex/meri/models/meri/fields.yaml
+modelClass: Alex\Meri\Models\Meri
+defaultRedirect: alex/meri/meri
+create:
+    redirect: 'alex/meri/meri/update/:id'
+    redirectClose: alex/meri/meri
+update:
+    redirect: alex/meri/meri
+    redirectClose: alex/meri/meri

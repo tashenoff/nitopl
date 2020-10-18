@@ -1,0 +1,12 @@
+list: $/alex/osms/models/osms/columns.yaml
+modelClass: Alex\Osms\Models\Osms
+title: Osms
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/osms/osms/update/:id'

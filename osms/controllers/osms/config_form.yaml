@@ -1,0 +1,10 @@
+name: Osms
+form: $/alex/osms/models/osms/fields.yaml
+modelClass: Alex\Osms\Models\Osms
+defaultRedirect: alex/osms/osms
+create:
+    redirect: 'alex/osms/osms/update/:id'
+    redirectClose: alex/osms/osms
+update:
+    redirect: alex/osms/osms
+    redirectClose: alex/osms/osms

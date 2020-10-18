@@ -1,11 +1,11 @@
-<?php namespace Alex\Obrazovanie\Models;
+<?php namespace Alex\Metodic\Models;
 
 use Model;
 
 /**
  * Model
  */
-class Obrazovanie extends Model
+class Metodic extends Model
 {
     use \October\Rain\Database\Traits\Validation;
     
@@ -19,7 +19,7 @@ class Obrazovanie extends Model
     /**
      * @var string The database table used by the model.
      */
-    public $table = 'alex_obrazovanie_';
+    public $table = 'alex_metodic_';
     public $attachOne = [
         'photo' => 'System\Models\file'
 

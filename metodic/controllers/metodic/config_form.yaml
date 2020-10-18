@@ -1,0 +1,10 @@
+name: Metodic
+form: $/alex/metodic/models/metodic/fields.yaml
+modelClass: Alex\Metodic\Models\Metodic
+defaultRedirect: alex/metodic/metodic
+create:
+    redirect: 'alex/metodic/metodic/update/:id'
+    redirectClose: alex/metodic/metodic
+update:
+    redirect: alex/metodic/metodic
+    redirectClose: alex/metodic/metodic
