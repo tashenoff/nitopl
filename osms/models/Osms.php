@@ -21,7 +21,7 @@ class Osms extends Model
      */
     public $table = 'alex_osms_';
     public $attachOne = [
-        'photo' => 'System\Models\file'
+        'photo' => 'System\Models\File'
 
     ];
     protected $jsonable = ['links'];
