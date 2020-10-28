@@ -1,0 +1,10 @@
+name: PacientGos
+form: $/alex/pacientgosp/models/pacientgosp/fields.yaml
+modelClass: Alex\Pacientgosp\Models\PacientGosp
+defaultRedirect: alex/pacientgosp/pacientgos
+create:
+    redirect: 'alex/pacientgosp/pacientgos/update/:id'
+    redirectClose: alex/pacientgosp/pacientgos
+update:
+    redirect: alex/pacientgosp/pacientgos
+    redirectClose: alex/pacientgosp/pacientgos

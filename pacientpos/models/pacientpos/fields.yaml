@@ -1,0 +1,10 @@
+fields:
+    title:
+        label: Заголовок
+        span: full
+        type: text
+    text:
+        label: Текст
+        size: ''
+        span: full
+        type: richeditor

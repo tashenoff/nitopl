@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.pacientgraf::lang.plugin.name'
+    description: 'alex.pacientgraf::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Пациентам и посетителям - индикатор удовлетворенности пациента'
+        url: alex/pacientgraf/pacientgraf
+        icon: icon-life-ring

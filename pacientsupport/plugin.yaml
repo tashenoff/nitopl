@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.pacientsupport::lang.plugin.name'
+    description: 'alex.pacientsupport::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Пациентам и посетителям - Служба поддержки пациента и внутреннего контроля'
+        url: alex/pacientsupport/pacientsupport
+        icon: icon-life-ring

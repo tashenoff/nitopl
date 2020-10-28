@@ -1,0 +1,10 @@
+name: PacientGraf
+form: $/alex/pacientgraf/models/pacientgraf/fields.yaml
+modelClass: Alex\Pacientgraf\Models\PacientGraf
+defaultRedirect: alex/pacientgraf/pacientgraf
+create:
+    redirect: 'alex/pacientgraf/pacientgraf/update/:id'
+    redirectClose: alex/pacientgraf/pacientgraf
+update:
+    redirect: alex/pacientgraf/pacientgraf
+    redirectClose: alex/pacientgraf/pacientgraf

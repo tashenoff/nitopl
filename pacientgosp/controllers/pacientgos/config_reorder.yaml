@@ -1,0 +1,4 @@
+title: PacientGos
+modelClass: Alex\Pacientgosp\Models\PacientGosp
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.pacientgosp::lang.plugin.name'
+    description: 'alex.pacientgosp::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Пациентам и посетителям - Госпитализация'
+        url: alex/pacientgosp/pacientgos
+        icon: icon-life-ring

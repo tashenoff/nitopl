@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.pacientpos::lang.plugin.name'
+    description: 'alex.pacientpos::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Пациентам и посетителям - график приема физических и юридических лиц'
+        url: alex/pacientpos/pacientpos
+        icon: icon-life-ring

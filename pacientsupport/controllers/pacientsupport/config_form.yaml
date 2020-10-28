@@ -1,0 +1,10 @@
+name: PacientSupport
+form: $/alex/pacientsupport/models/pacientsupport/fields.yaml
+modelClass: Alex\Pacientsupport\Models\PacientSupport
+defaultRedirect: alex/pacientsupport/pacientsupport
+create:
+    redirect: 'alex/pacientsupport/pacientsupport/update/:id'
+    redirectClose: alex/pacientsupport/pacientsupport
+update:
+    redirect: alex/pacientsupport/pacientsupport
+    redirectClose: alex/pacientsupport/pacientsupport

@@ -1,0 +1,4 @@
+title: PacientPos
+modelClass: Alex\Pacientpos\Models\PacientPos
+toolbar:
+    buttons: reorder_toolbar

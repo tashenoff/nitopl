@@ -1,0 +1,4 @@
+title: PacientGraf
+modelClass: Alex\Pacientgraf\Models\PacientGraf
+toolbar:
+    buttons: reorder_toolbar

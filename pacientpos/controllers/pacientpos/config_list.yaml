@@ -1,0 +1,12 @@
+list: $/alex/pacientpos/models/pacientpos/columns.yaml
+modelClass: Alex\Pacientpos\Models\PacientPos
+title: PacientPos
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/pacientpos/pacientpos/update/:id'
