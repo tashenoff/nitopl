@@ -21,7 +21,7 @@ class Obrazovanie extends Model
      */
     public $table = 'alex_obrazovanie_';
     public $attachOne = [
-        'photo' => 'System\Models\file'
+        'photo' => 'System\Models\File'
 
     ];
     protected $jsonable = ['links'];
