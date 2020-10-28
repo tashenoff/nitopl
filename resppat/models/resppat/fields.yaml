@@ -1,0 +1,34 @@
+fields:
+    title:
+        label: 'Название раздела'
+        span: full
+        type: text
+    photo:
+        label: 'Картинка для раздела'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
+    text:
+        label: 'Текст раздела'
+        size: giant
+        span: full
+        type: richeditor
+    links:
+        label: 'Ссылки в разделе'
+        prompt: 'Добавить новую'
+        span: full
+        type: repeater
+        form:
+            fields:
+                link:
+                    label: Ссылка
+                    span: full
+                    type: text
+                link_title:
+                    label: 'Заголовок ссылки'
+                    span: full
+                    type: text

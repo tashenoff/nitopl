@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.resppat::lang.plugin.name'
+    description: 'alex.resppat::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Республиканский центр патологии позвоночника'
+        url: alex/resppat/resppat
+        icon: icon-life-ring

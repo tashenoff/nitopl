@@ -1,0 +1,4 @@
+title: RespSportTravm
+modelClass: Alex\Respsporttravm\Models\RespSportTravm
+toolbar:
+    buttons: reorder_toolbar

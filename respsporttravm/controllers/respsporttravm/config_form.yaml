@@ -1,0 +1,10 @@
+name: RespSportTravm
+form: $/alex/respsporttravm/models/respsporttravm/fields.yaml
+modelClass: Alex\Respsporttravm\Models\RespSportTravm
+defaultRedirect: alex/respsporttravm/respsporttravm
+create:
+    redirect: 'alex/respsporttravm/respsporttravm/update/:id'
+    redirectClose: alex/respsporttravm/respsporttravm
+update:
+    redirect: alex/respsporttravm/respsporttravm
+    redirectClose: alex/respsporttravm/respsporttravm

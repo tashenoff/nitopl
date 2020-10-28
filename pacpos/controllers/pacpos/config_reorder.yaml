@@ -1,0 +1,4 @@
+title: PacPos
+modelClass: Alex\Pacpos\Models\PacPos
+toolbar:
+    buttons: reorder_toolbar

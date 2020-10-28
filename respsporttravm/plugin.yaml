@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.respsporttravm::lang.plugin.name'
+    description: 'alex.respsporttravm::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Республиканский центр артроскопии и спортивной травмы'
+        url: alex/respsporttravm/respsporttravm
+        icon: icon-life-ring

@@ -1,0 +1,4 @@
+title: RespC
+modelClass: Alex\Respc\Models\RespC
+toolbar:
+    buttons: reorder_toolbar

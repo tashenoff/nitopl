@@ -1,0 +1,4 @@
+title: RespPat
+modelClass: Alex\Resppat\Models\RespPat
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,10 @@
+name: RespPat
+form: $/alex/resppat/models/resppat/fields.yaml
+modelClass: Alex\Resppat\Models\RespPat
+defaultRedirect: alex/resppat/resppat
+create:
+    redirect: 'alex/resppat/resppat/update/:id'
+    redirectClose: alex/resppat/resppat
+update:
+    redirect: alex/resppat/resppat
+    redirectClose: alex/resppat/resppat

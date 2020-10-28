@@ -1,0 +1,12 @@
+list: $/alex/respc/models/respc/columns.yaml
+modelClass: Alex\Respc\Models\RespC
+title: RespC
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/respc/respc/update/:id'

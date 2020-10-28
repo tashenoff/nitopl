@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.respc::lang.plugin.name'
+    description: 'alex.respc::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Республиканский центр эндопротезирования'
+        url: alex/respc/respc
+        icon: icon-life-ring

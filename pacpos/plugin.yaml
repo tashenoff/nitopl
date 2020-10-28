@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.pacpos::lang.plugin.name'
+    description: 'alex.pacpos::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Пациентам и посетителям - стационарные услуги'
+        url: alex/pacpos/pacpos
+        icon: icon-life-ring

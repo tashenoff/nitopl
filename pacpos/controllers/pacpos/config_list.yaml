@@ -1,0 +1,12 @@
+list: $/alex/pacpos/models/pacpos/columns.yaml
+modelClass: Alex\Pacpos\Models\PacPos
+title: PacPos
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alex/pacpos/pacpos/update/:id'

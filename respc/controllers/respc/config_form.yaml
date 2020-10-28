@@ -1,0 +1,10 @@
+name: RespC
+form: $/alex/respc/models/respc/fields.yaml
+modelClass: Alex\Respc\Models\RespC
+defaultRedirect: alex/respc/respc
+create:
+    redirect: 'alex/respc/respc/update/:id'
+    redirectClose: alex/respc/respc
+update:
+    redirect: alex/respc/respc
+    redirectClose: alex/respc/respc

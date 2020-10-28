@@ -1,0 +1,10 @@
+name: PacPos
+form: $/alex/pacpos/models/pacpos/fields.yaml
+modelClass: Alex\Pacpos\Models\PacPos
+defaultRedirect: alex/pacpos/pacpos
+create:
+    redirect: 'alex/pacpos/pacpos/update/:id'
+    redirectClose: alex/pacpos/pacpos
+update:
+    redirect: alex/pacpos/pacpos
+    redirectClose: alex/pacpos/pacpos
