@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.extratrav::lang.plugin.name'
+    description: 'alex.extratrav::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Экстренная травматология'
+        url: alex/extratrav/extratrav
+        icon: icon-life-ring

@@ -1,0 +1,10 @@
+name: ExtraTrav
+form: $/alex/extratrav/models/extratrav/fields.yaml
+modelClass: Alex\Extratrav\Models\ExtraTrav
+defaultRedirect: alex/extratrav/extratrav
+create:
+    redirect: 'alex/extratrav/extratrav/update/:id'
+    redirectClose: alex/extratrav/extratrav
+update:
+    redirect: alex/extratrav/extratrav
+    redirectClose: alex/extratrav/extratrav

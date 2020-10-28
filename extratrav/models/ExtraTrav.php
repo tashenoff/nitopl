@@ -1,11 +1,11 @@
-<?php namespace Alex\Pacientgosp\Models;
+<?php namespace Alex\Extratrav\Models;
 
 use Model;
 
 /**
  * Model
  */
-class PacientGosp extends Model
+class ExtraTrav extends Model
 {
     use \October\Rain\Database\Traits\Validation;
     
@@ -15,11 +15,11 @@ class PacientGosp extends Model
      */
     public $timestamps = false;
 
-8
+
     /**
      * @var string The database table used by the model.
      */
-    public $table = 'alex_pacientgosp_';
+    public $table = 'alex_extratrav_';
     public $attachOne = [
         'photo' => 'System\Models\File'
 

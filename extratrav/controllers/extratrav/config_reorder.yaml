@@ -1,0 +1,4 @@
+title: ExtraTrav
+modelClass: Alex\Extratrav\Models\ExtraTrav
+toolbar:
+    buttons: reorder_toolbar
