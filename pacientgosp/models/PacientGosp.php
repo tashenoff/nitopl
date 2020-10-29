@@ -15,7 +15,7 @@ class PacientGosp extends Model
      */
     public $timestamps = false;
 
-8
+
     /**
      * @var string The database table used by the model.
      */
