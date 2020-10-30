@@ -1,0 +1,11 @@
+plugin:
+    name: 'alex.corp::lang.plugin.name'
+    description: 'alex.corp::lang.plugin.description'
+    author: alex
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'Файлы корпоративного управления'
+        url: alex/corp/corp
+        icon: icon-file

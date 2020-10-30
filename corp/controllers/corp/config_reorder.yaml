@@ -1,0 +1,4 @@
+title: Corp
+modelClass: Alex\Corp\Models\Corp
+toolbar:
+    buttons: reorder_toolbar

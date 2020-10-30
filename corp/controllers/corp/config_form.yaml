@@ -1,0 +1,10 @@
+name: Corp
+form: $/alex/corp/models/corp/fields.yaml
+modelClass: Alex\Corp\Models\Corp
+defaultRedirect: alex/corp/corp
+create:
+    redirect: 'alex/corp/corp/update/:id'
+    redirectClose: alex/corp/corp
+update:
+    redirect: alex/corp/corp
+    redirectClose: alex/corp/corp
